@@ -1,0 +1,52 @@
+{
+  "sites": [
+    {
+      "id": "cafe-delights",
+      "name": "Café Delights",
+      "domain": "cafe-delights.localhost:3000",
+      "theme": {
+        "primaryColor": "#f59e0b",
+        "secondaryColor": "#ea580c",
+        "fontFamily": "'Inter', sans-serif",
+        "backgroundColor": "#fffbeb"
+      },
+      "metadata": {
+        "title": "Café Delights - Artisan Coffee & Pastries",
+        "description": "Premium coffee and handcrafted pastries in the heart of the city"
+      },
+      "craftState": ""
+    },
+    {
+      "id": "bella-trattoria",
+      "name": "Bella Trattoria",
+      "domain": "bella-trattoria.localhost:3000",
+      "theme": {
+        "primaryColor": "#dc2626",
+        "secondaryColor": "#b91c1c",
+        "fontFamily": "'Playfair Display', serif",
+        "backgroundColor": "#fef2f2"
+      },
+      "metadata": {
+        "title": "Bella Trattoria - Authentic Italian Cuisine",
+        "description": "Traditional Italian recipes passed down through generations"
+      },
+      "craftState": ""
+    },
+    {
+      "id": "sushi-zen",
+      "name": "Sushi Zen",
+      "domain": "sushi-zen.localhost:3000",
+      "theme": {
+        "primaryColor": "#059669",
+        "secondaryColor": "#047857",
+        "fontFamily": "'Noto Sans', sans-serif",
+        "backgroundColor": "#f0fdf4"
+      },
+      "metadata": {
+        "title": "Sushi Zen - Modern Japanese Dining",
+        "description": "Fresh sushi and contemporary Japanese cuisine"
+      },
+      "craftState": ""
+    }
+  ]
+}
