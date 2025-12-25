@@ -1,3 +1,3 @@
 [submodule "src/shared/craft"]
 	path = src/shared/craft
-	url = /Users/minglinlu/Desktop/nota-components
+	url = https://github.com/minglinlu/nota-components.git
